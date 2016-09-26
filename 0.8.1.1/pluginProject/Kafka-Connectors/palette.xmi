@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette:CategoryCmp xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:palette="http://www.ibm.com/wbi/2005/eflow_palette" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" xmi:id="Krish-Kafka-Connectors">
+  <categoryLabel xsi:type="utility:TranslatableString" key="category.name" bundleName="palette" pluginId="Kafka-Connectors"/>
+  <cmpGroups xsi:type="palette:GroupCmp">
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="com.krish.poc.producer" icon16Name="platform:/plugin/Kafka-Connectors/icons/full/clcl16/com/krish/poc/producer.gif" icon32Name="platform:/plugin/Kafka-Connectors/icons/full/obj32/com/krish/poc/producer.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="com/krish/poc/producer.msgflow">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.com.krish.poc.producer" bundleName="palette" pluginId="Kafka-Connectors"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.com.krish.poc.producer" bundleName="palette" pluginId="Kafka-Connectors"/>
+    </cmpEntries>
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="com.krish.poc.consumer" icon16Name="platform:/plugin/Kafka-Connectors/icons/full/clcl16/com/krish/poc/consumer.gif" icon32Name="platform:/plugin/Kafka-Connectors/icons/full/obj32/com/krish/poc/consumer.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="com/krish/poc/consumer.msgflow">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.com.krish.poc.consumer" bundleName="palette" pluginId="Kafka-Connectors"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.com.krish.poc.consumer" bundleName="palette" pluginId="Kafka-Connectors"/>
+    </cmpEntries>
+  </cmpGroups>
+</palette:CategoryCmp>

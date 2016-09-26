@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+    <!--This is a generated file.-->
+    <!--User modifications to the values in this file will be preserved-->
+    <context id="com.krish.poc.producer" title="publish">
+        <description>publish</description>
+    </context>
+    <context id="com.krish.poc.consumer" title="subscriber">
+        <description>subscriber</description>
+    </context>
+</contexts>
