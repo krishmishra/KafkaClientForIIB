@@ -22,5 +22,8 @@ a) windows C:\ProgramData\IBM\MQSI\shared-classes  b) linux run this command to 
 3) Deploy after changing required inputs, default values are populated on node.
 
 
-Publish node.
+Publisher node.
+https://github.com/krishmishra/KafkaClientForIIB/blob/master/Publish.JPG
+Consumer Node:
+https://github.com/krishmishra/KafkaClientForIIB/blob/master/Consumer.JPG
 
