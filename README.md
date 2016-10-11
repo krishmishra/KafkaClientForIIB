@@ -20,3 +20,7 @@ method 2:n Place dependent Jar is shared directory of broker
 a) windows C:\ProgramData\IBM\MQSI\shared-classes  b) linux run this command to get path "mqsilist <integrationNodeName>"
 2) import KafkaClientForIIB/0.8.1.1/testProject/ 
 3) Deploy after changing required inputs, default values are populated on node.
+
+
+Publish node.
+
