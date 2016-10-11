@@ -32,7 +32,7 @@ https://github.com/krishmishra/KafkaClientForIIB/blob/master/Publish.JPG
 
 /KafkaClientForIIB/Publish.JPG
 
-![Alt text](/krishmishra/KafkaClientForIIB/blob/master/Publish.JPG?raw=true "Publisher Node example")
+![Alt text](/Publish.JPG?raw=true "Publisher Node example")
 
 
 # Consumer Node:
@@ -41,4 +41,4 @@ https://github.com/krishmishra/KafkaClientForIIB/blob/master/Consumer.JPG
 
 /KafkaClientForIIB/Consumer.JPG
 
-![Alt text](/krishmishra/KafkaClientForIIB/blob/master/Consumer.JPG?raw=true "Consumer Node example")
+![Alt text](/Consumer.JPG?raw=true "Consumer Node example")
