@@ -30,7 +30,11 @@ a) windows C:\ProgramData\IBM\MQSI\shared-classes  b) linux run this command to 
 
 https://github.com/krishmishra/KafkaClientForIIB/blob/master/Publish.JPG
 
+/KafkaClientForIIB/Publish.JPG
+
+
 # Consumer Node:
 
 https://github.com/krishmishra/KafkaClientForIIB/blob/master/Consumer.JPG
 
+/KafkaClientForIIB/Consumer.JPG
