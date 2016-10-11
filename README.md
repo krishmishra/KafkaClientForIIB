@@ -17,13 +17,19 @@ method 1: Deploying dependent jar with project
 method 2:n Place dependent Jar is shared directory of broker
 
 1) place jar from KafkaClientForIIB/0.8.1.1/sharedLib/ to shared library of message broker.
+
 a) windows C:\ProgramData\IBM\MQSI\shared-classes  b) linux run this command to get path "mqsilist <integrationNodeName>"
+
 2) import KafkaClientForIIB/0.8.1.1/testProject/ 
+
 3) Deploy after changing required inputs, default values are populated on node.
 
 
 Publisher node.
+
 https://github.com/krishmishra/KafkaClientForIIB/blob/master/Publish.JPG
+
 Consumer Node:
+
 https://github.com/krishmishra/KafkaClientForIIB/blob/master/Consumer.JPG
 
